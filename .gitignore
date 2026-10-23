@@ -1,0 +1,6 @@
+.venv/
+*.py[cod]
+.env
+.vscode/
+node_modules/
+datasets/predictions.csv
